@@ -11,7 +11,7 @@ from astropy.coordinates import (
 )
 import astropy.units as u
 
-solar_system_ephemeris.set("G:/迅雷下载/de430.bsp")
+solar_system_ephemeris.set("de430.bsp")
 
 start_t = Time("2025-02-01")
 end_t = Time("2026-12-30")
